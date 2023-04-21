@@ -1,0 +1,47 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 6px;
+    padding-bottom: 7px;
+}
+#services{
+    flex-direction: column;
+}
+
+#clients{
+
+    flex-wrap: wrap;
+
+}
+#cliets img{
+    width: 56px;
+    padding: 6px;
+}
+#home{
+    padding: 3px 50px;
+    height: 350px;
+
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    font-size: 13px;
+}
+.h-primary{
+    font-size: 23px;
+}
+.btn{
+    font-size: 12px;
+    padding: 4px 7px;
+}
+#services .box{
+    
+    
+    margin: 2px 0px;
+    padding: 13px;
+   
+
+}
